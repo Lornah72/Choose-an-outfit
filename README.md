@@ -1,2 +1,19 @@
 # Choose-an-outfit
-Cannot be able to choose an outfit to wear? Hear is a simple web app that allows you to input your different options and it will randomly decide for you.
+
+
+## Installation
+
+If you already have python and pip installed, run the following command [pip](https://pip.pypa.io/en/stable/) to install flask.
+
+```bash
+pip install Flash
+```
+
+To run, run the following command
+```bash
+pyhton -m flask run
+```
+
+## License
+
+@LornahSanga
